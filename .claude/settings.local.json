@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -k -L -s \"https://web.archive.org/web/20231122094316cs_/https://uomleos.org/assets/css/style.css?version=1.0.3\")",
+      "Read(//tmp/**)"
+    ]
+  }
+}
